@@ -1,9 +1,6 @@
 document.querySelector("#app").innerHTML = `
   <h1>Want to know a fact about cats?</h1>
   <button id="fetch-request">Get a fact</button>
-  <div id="box">
-    <p id="fact"></p>
-  </div>
 `;
 
 // document.querySelector("#fetch-request").addEventListener("click", async () => {
