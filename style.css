@@ -39,6 +39,7 @@
   }
   
   #box {
+    display: none;
     padding: 2rem;
     margin-top: 2rem;
     border-radius: 8px;
